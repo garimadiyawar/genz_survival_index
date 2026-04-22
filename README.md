@@ -1,4 +1,4 @@
-# Gen Z Survival Index
+# Gen Z Survival Index (v0.3)
 
 An experimental data project exploring which cities are most livable for Gen Z based on affordability, job opportunities, remote work availability, and quality of life indicators.
 
